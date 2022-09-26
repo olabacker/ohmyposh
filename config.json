@@ -5,7 +5,7 @@
         "alignment": "left",
         "segments": [
           {
-            "background": "#61AFEF",
+            "background": "#225177",
             "foreground": "#ffffff",
             "leading_diamond": "\ue0b6",
             "style": "diamond",
@@ -14,7 +14,7 @@
             "type": "session"
           },
           {
-            "background": "#C678DD",
+            "background": "#cf892e",
             "foreground": "#ffffff",
             "powerline_symbol": "\ue0b0",
             "properties": {
