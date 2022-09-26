@@ -10,7 +10,6 @@
                     "leading_diamond": "\ue0b6",
                     "style": "diamond",
                     "template": " {{ .UserName }}@{{ .HostName }} ",
-                    "trailing_diamond": "\ue0b0",
                     "type": "session"
                 },
                 {
@@ -25,7 +24,7 @@
                     "type": "path"
                 },
                 {
-                    "background": "#95ffa4",
+                    "background": "#1d7028",
                     "foreground": "#193549",
                     "powerline_symbol": "\ue0b0",
                     "style": "powerline",
